@@ -1,2 +1,2 @@
 # web-tech-report
-My report for the Web Technologies course
+This is my interactive, responsive, semantic and stylized informational site on the topic of "Rendering of web pages and handling of events in the browser". 
